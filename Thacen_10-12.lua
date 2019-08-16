@@ -22,5 +22,5 @@ Mage, 7c) Go NW to Brill and then go upstairs in the Inn and turn in (if you hav
 14) [H]Hearth, or run back to Brill and in front of the Town Hall, turn in [QT372 At War with the Scarlet Crusade] [G61,52] and (if you still need to) [QT374 Proof of Demise].
 15) At the First Aid Trainer [G62,53] just in the entrance of the Inn, learn Heavy Linen Bandage (skill 40), and if possible Journeyman First Aid (skill 50).
 16) Make sure you are level [XP 12], grind on any mobs around Brill until you are.  Then go in Brill's Inn and get your level 12 spells/abilities.[T]  The Mage Trainer is right at the top of the stairs in the Inn.
-[NX 12-15 Silverpine Forest_1][NX 12-20 Barrens]
+[NX 12-15 Silverpine Forest_1][NX 12-15 Barrens]
 ]], "Thacen")
