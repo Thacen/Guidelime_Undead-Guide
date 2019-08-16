@@ -1,0 +1,17 @@
+## Title: Guidelime_Undead-Guide(Mage)
+## Author: Thacen
+## Version: 0.001-Beta
+## Interface: 11302
+## Dependencies: Guidelime
+## Notes: Leveling Guide for Undead Mage in Classic. Based on https://www.joanasworld.com/azeroth.htm
+
+Thacen_1-6.lua
+Thacen_6-10.lua
+Thacen_M_10-Quest.lua
+Thacen_10-12.lua
+Thacen_12-15M.lua
+Thacen_12-15A.lua
+Thacen_12-15B.lua
+Thacen_12-15C.lua
+Thacen_12-15D.lua
+Thacen_15-Barrens(Undead).lua
