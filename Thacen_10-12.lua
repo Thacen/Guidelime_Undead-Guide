@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N10-12 Tirisfal Glades]
 [GA Horde]
-[D A guide created by T H A C E N#9446\\Based on Joana's Speed Leveling guide]
+[D A guide created by T H A C E N#9446\\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
 01) In front of the Town Hall, turn in [QT427 At War with the Scarlet Crusade] [G61,52Tirisfal Glades], accept the [QA370 next part].  Also turn in next to you (if it is done) [QA374 Proof of Demise].  Make sure you are repaired/resupplied.[V][R]
 02) If you are still working on [QC375 The Chill of Death], then go to the Trade Supplies (under the red tent [G61,52]) and [V purchase] a Coarse Thread (remember not to sell this!)
 03) Go SE to the small camp along the main path and turn in [QT359 Forsaken Duties] [G66,60], accept [QA360 Return to the Magistrate] and [QA356 Rear Guard Patrol].
