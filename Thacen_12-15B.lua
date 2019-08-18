@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N12-15 Silverpine Forest_3]
 [GA Horde]
-[D A guide created by T H A C E N#9446\\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
+[D A guide created by T H A C E N#9446\\\\Based on Joana's Speed Leveling guide www.joanasworld.com]
 01) Go east to the shore and click on the Corpse Laden Boat [G58,35Silverpine Forest] to turn in [QT438 The Decrepit Ferry], accept [QA439 Rot Hide Clues].
 02) Go north to Valgan's Field and do [QC422 Arugal's Folly]: upstairs in the big house, loot the [QC422,1 Dusty Spellbooks] [G53,29] on the ground.
 03) Go north to The Ivar Patch and upstairs in the big house, turn in [QT430 Return to Quinn] [G53,13].

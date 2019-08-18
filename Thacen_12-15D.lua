@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N12-15 Silverpine Forest_5]
 [GA Horde]
-[D A guide created by T H A C E N#9446\\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
+[D A guide created by T H A C E N#9446\\\\Based on Joana's Speed Leveling guide www.joanasworld.com]
 01) When you land at the UC, go across the room in the Trade Quarter and turn in [QT6323 Ride to the Undercity] [G61,42], accept [QA6322 Michael Garrett].
 02) Go to the Bat Handler [G63,48] and turn in [QT6322 Michael Garrett], accept [QA6324 Return to Podrig].  Skip the ride for now.
 03) Go SW down in The Apothecarium and turn in [QT447 A Recipe For Death] [G49,69], SKIP the [QS450 next part].

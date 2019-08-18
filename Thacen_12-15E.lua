@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N12-15 Barrens]
 [GA Horde]
-[D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
+[D A guide created by T H A C E N#9446\\\\Based on Joana's Speed Leveling guide www.joanasworld.com]
 01) Go back to the other Razormane camps up NE (around [G57,25The Barrens]) and do "[QC872 The Disruption Ends]" and "[QC5041 Supplies for the Crossroads]": kill the needed Razormane mobs and loot a Crossroads' Supply Crates (there are multiple locations of these crates).  Kreenig Snarlsnout is at ([G59,27], /target).
 02) Once done, go SE to Ratchet and accept "[QA865 Raptor Horns]" (next to Ratchet's bank, [G62,38]).
 03) At the WANTED sign next to the bank, accept "[QA895 WANTED: Baron Longshore]" ([G63,38]).

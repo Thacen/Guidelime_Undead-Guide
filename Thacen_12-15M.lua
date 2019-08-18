@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N12-15 Silverpine Forest_1]
 [GA Horde]
-[D A guide created by T H A C E N#9446\\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
+[D A guide created by T H A C E N#9446\\\\Based on Joana's Speed Leveling guide www.joanasworld.com]
 01) Head south on the main path to enter Silverpine Forest [G54,76Tirisfal Glades].
 02) Just to your right off the main path at Malden's Orchard, in the small house [G56,9], accept and do the escort [QC435 Escorting Erland] by escorting Deathstalker Erland SW a bit to The Ivar Patch.  Then turn [QT435 it] in from the NPC [G53,13] in front of the big house and accept [QT449 The Deathstalkers' Report].  Do NOT accept [QT429 Wild Hearts] yet.
 03) Die on purpose and res at spirit to get to The Sepulcher.  NOTE:  Save any Discolored Worg Hearts you may have.

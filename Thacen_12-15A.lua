@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N12-15 Silverpine Forest_2]
 [GA Horde]
-[D A guide created by T H A C E N#9446\\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
+[D A guide created by T H A C E N#9446\\\\Based on Joana's Speed Leveling guide www.joanasworld.com]
 01) As you do the following steps also start working on part of [QC447 A Recipe For Death] by kill/looting any bears you see along the way:
 02) Work your way north and east of the main path around Valgan's Field (around [G52,25]) do [QC421 Prove Your Worth]: kill 5 [QC421,1 Moonrage Whitescalps] (worgen).
 03) Work your way north to The Ivar Patch and from the NPC [G53,13] in front of the big house, turn in [QT428 Lost Deathstalkers].  Also accept [QA429 Wild Hearts].

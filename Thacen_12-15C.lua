@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N12-15 Silverpine Forest_4]
 [GA Horde]
-[D A guide created by T H A C E N#9446\\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
+[D A guide created by T H A C E N#9446\\\\Based on Joana's Speed Leveling guide www.joanasworld.com]
 01) At The Sepulcher, outside at the largest tombstone in the graveyard, turn in [QT478 Maps and Runes] [G44,41], accept [QA481 Dalar's Analysis].
 02) Just north from the NPC in purple, turn in [QT423 Arugal's Folly] [G44,40], accept the [QA423 next part].  And turn in [QA481 Dalar's Analysis], accept [QA482 Dalaran's Intentions].  Make sure you are repaired/resupplied.[R]
 03) back at the largest tombstone in the graveyard, turn in [QT482 Dalaran's Intentions] [G44,41], accept [QA479 Ambermill Investigations].

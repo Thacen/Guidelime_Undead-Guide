@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N1-6 DeathKnell (Tirisfal Glades)]
 [GA Horde]
-[D A guide created by T H A C E N#9446\\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
+[D A guide created by T H A C E N#9446\\\\Based on Joana's Speed Leveling guide www.joanasworld.com]
 1) Run up the stairs to exit the crypt and in front of you accept [QA363 Rude Awakening] [G30,72Tirisfal Glades]
 2) Follow the path down the hill and go into the first building on the left (a church) and turn in[QT363 Rude Awakening] [G31,66], accept "[QA364 The Mindless Ones]".
 3) Go down the hill a bit [G32,63] and do "[QC364 The Mindless Ones]": kill the needed zombies.

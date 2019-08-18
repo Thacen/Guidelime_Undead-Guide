@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N15 - Barrens]
 [GA Horde]
-[D A guide created by T H A C E N#9446\\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
+[D A guide created by T H A C E N#9446\\\\Based on Joana's Speed Leveling guide www.joanasworld.com]
 01) Just over the bridge, next to the path, turn in [QT840 Conscript of the Horde] ([G62,19] The Barrens), accept [QA842 Crossroads Conscription].
 02) Go SW to XRs and in the Inn, make XRs your new home from the Innkeeper [G52,30].[S]
 03) Right outside the Inn on your right accept [QA869 Raptor Thieves] [G52,30].
