@@ -44,10 +44,12 @@ Thacen_44-44.lua
 Thacen_44-45.lua
 Thacen_45-46.lua
 Thacen_46-47.lua
-Thacen_47-47.lua
+Thacen_47-47H.lua
+Thacen_47-47SV.lua
 Thacen_47-48.lua
 Thacen_48-49.lua
-Thacen_49-49.lua
+Thacen_49-49DW.lua
+Thacen_49-49F.lua
 Thacen_49-50.lua
 Thacen_50-50.lua
 Thacen_50-51.lua

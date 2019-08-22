@@ -1,0 +1,60 @@
+Guidelime.registerGuide(
+[[
+[N56-57 Eastern Plaguelands]
+[GA Horde]
+[D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
+1) Go north along Thondoril River to Tiron Fordring ([G8,44]) and accept "[QA5542 Demon Dogs]", "[QA5543 Blood Tinged Skies]" and "[QA5544 Carrion Grubbage]".
+02) Grind SE to The Marris Stead ([G26,75]) and accept "[QA6022 To Kill With Purpose]", "[QA6042 Un-Life's Little Annoyances]" and "[QA6133 The Ranger Lord's Behest]".
+03) Go south to The Undercroft and down in the crypt, from the Torn Scroll laying on the ground, accept "[QA6024 Hameya's Plea]" ([G27,85]).
+04) Grind east to Darrowshire to Pamela Redpath and turn in "[QT5601 Sister Pamela]" ([G36,91]), accept "[QA5149 Pamela's Doll]".
+05) At Darrowshire do "[QC5149 Pamela's Doll]": find the 3 parts to Pamela's Doll: the head, the left side and right side. These parts have multiple spawn locations around Darrowshire in each of the 3 buildings in the area (excluding the building where Pamela is at). They look like little yellow things. Search the buildings for the 3 parts, then click one of them to combine them to make Pamela's Doll. (See Video)
+06) Go back to Pamela Redpath at Darrowshire and turn in "[QT5149 Pamela's Doll]" ([G36,91], #4 on map). Accept "[QA5152 Auntie Marlene]" and "[QA5241 Uncle Carlin]".
+07) Finish "[QC5543 Blood Tinged Skies]": kill 30 Plaguebats. Also do part of "[QC5542 Demon Dogs]": kill 20 Plaguehound Runts. And start working on "[QC5544 Carrion Grubbage]": kill/loot Carrion mobs for the worm meat. All of these mobs are found in southern Eastern Plaguelands and the Carrion worm mobs are all over Eastern Plaguelands. Once you are nearing completion, work your way east to the next step:
+08) Grind to Light's Hope Chapel ([G80,64]) and accept "[QA5281 The Restless Souls]" and "[QA6021 Zaeldarr the Outcast]".
+09) Go north a bit and turn in "[QT6030 Duke Nicholas Zverenhoff]" ([G81,60]). Also from this NPC, if you have at least 20 Minion's Scourgestones, complete a "[QT5510 Minion's Scourgestones]" (and dont consume the item recieved).
+10) Next to you, turn in "[QT5241 Uncle Carlin]", accept "[QA5211 Defenders of Darrowshire]".
+11) You can get repaired/resupplied from Craftsman Wilhelm ([G81,60]) next to the Forge. NOTE: If you are a class that uses mana and if you are already Friendly with The Argent Dawn, then stock up on Enriched Manna Biscuits from the female dwarf Miranda Breechloc by the tent.
+12) At the other side of the Inn, from the human on the horse and with your one Argent Dawn Valor Token you might have, accept and turn in "[QT9141 They Call Me "The Rooster]" ([G81,57]). If you dont have it yet, do this when you can.
+13) If you were able to obtain the items needed for "[QT6026 That's Asking A Lot]", then turn it in (at the dwarf Smokey LaRue by the Campfire, [G81,58]), accept "[QA6041 When Smokey Sings, I Get Violent]".
+14) North in Light's Hope, get the FP there from the Bat Handler ([G80,57]).
+15) Go SW to Corin's Crossing (around [G60,68]) and do "[QC6022 To Kill With Purpose]": kill/loot the undead mobs there to obtain Living Rot (work fast they only last 10 min), then use your Mortar and Pestle quest item to combine 7 of them to make the item you need. Also start working on "[QC5211 Defenders of Darrowshire]": kill Gibbering Ghouls and then talk to the spirit that spawns (don't need to finish this now though).
+16) Do part of "[QC5542 Demon Dogs]" and "[QC6042 Un-Life's Little Annoyances]": kill 5 Plaguehounds and 20 Noxious Plaguebats. These mobs are found in the middle-eastern side of Eastern Plaguelands.
+17) Grind north to Zul'Mashar (ramp entrance at [G64,23])..
+18) Go up into Zul'Mashar and do "[QC6024 Hameya's Plea]": kill/loot Infiltrator Hameya /target. This troll patrols around in front of the temple (around [G70,17]). Stay away from the dirt mounds in front of the temple as undeads will spawn near them, it's better to wait until Infiltrator Hameya patrols up front for you to take on alone. Also he hits hard so be prepared.
+19) Finish up "[QC5544 Carrion Grubbage]", "[QC5542 Demon Dogs]" and "[QC6042 Un-Life's Little Annoyances]": kill/loot Carrion mobs for the worm meat, kill 5 Frenzied Plaguehounds and kill 10 Monstrous Plaguebats. These mobs are found NE around the open fields of Eastern Plaguelands. NOTE: You can find some more spirits for "[QC5211 Defenders of Darrowshire]" (around [G65,38]) from the Diseased Flayers, and you can find more on the later steps as well.
+20) GROUP 2+ Players (or could be soloable):  Go north to Quel'Lithien Lodge (entrance at [G51,21]) and try to do "[QC6133 The Ranger Lord's Behest]": kill the needed blood elf mobs and go into the lodge, make a right, then loot the Quel'Thalas Registry (book laying on a bench, [G52,18]). This quest may be hard to solo. If you are almost lvl 57, then grind to it before doing this quest. You may need to distract the mobs in the lodge, grab the book and run out some how. If you cannot solo this, or find help then it can be skipped.
+21) Go west to Plaguewood (starting at [G46,34]) and do the following 3 quests together:
+22) "[QC5901 A Plague Upon Thee]": loot the Large Termite Mounds, these are spaced all around Plaguewood (see map).
+23) "[QC5211 Defenders of Darrowshire]": finish this quest by killing Cannibal Ghouls and talk to the spirits that spawn.
+24) If you have it try to do "[QC6041 When Smokey Sings, I Get Violent]": go in the various buildings around Plaguewood and use Smokey's Special Compound quest item inside the buildings. You will have to get past a tough elite in each building in order to do this quest. If you cannot find a way to sneak past the elite with your class or find someone to help you kill the elite then this quest can be skipped.
+25) Go west to Terrordale and in the hut turn in "[QT5281 The Restless Souls]" ([G14,33]), SKIP the next part (dungeon). And next to you, accept "[QA6164 Augustus' Receipt Book]".
+26) Do "[QC6164 Augustus' Receipt Book]": go NE a bit to the Terrordale Inn (the largest building in the area) and go up in the Inn, make a right and between two split open barrels loot Augustus' Receipt Book on the ground. NOTE: Kill/loot all Crypt Fiends you see to start obtaining Crypt Fiend Parts (used for a later quest).
+27) Go back to the hut in Terrordale and turn in "[QT6164 Augustus' Receipt Book]" ([G14,33], #1 on map). NOTE: You can now get resupplied from this NPC.
+28) Grind on Crypt Fiend mobs all around Terrordale to collect 30 Crypt Fiend Parts. This will be used for a later quest. There is more in the next step as well (but watch out for the Elite):
+29) Go through the long cave (entrance at [G15,29]). NOTES: This cave journey is not easy. There is a lvl 60 elite spider /target (with a 12 hour respawn) that patrols back and forth to the 2 entrances of this cave. Try to sneak past it if you can. If this cave is too hard for you, then another possible quick alternative is to take the Tower Gryphon ride from the Plaguewood Tower ([G22,32]) to the Crown Guard Tower ([G39,75]), as long as the horde has control over the towers that is. Make sure you get all 30 Crypt Fiend Parts before leaving this area.
+30) Once you get out to the other side of the cave (or take the tower ride), north along Thondoril River at Tiron Fordring ([G8,44]), turn in "[QT5542 Demon Dogs]" "[QT5543 Blood Tinged Skies]" and "[QT5544 Carrion Grubbage]". Accept "[QA5742 Redemption]". Simply talk to Tiron Fordring to complete "[QT5742 Redemption]" (you may need to sit first), accept "[QA5781 Of Forgotten Memories]".
+31) Grind SE to The Marris Stead ([G26,75]) and turn in "[QT6022 To Kill With Purpose]", "[QT6042 Un-Life's Little Annoyances]" and (if you did it) "[QT6133 The Ranger Lord's Behest]". Only accept, do and turn in "Duskwing, Oh How I Hate Thee...", if you are able to kill/loot Duskwing /target. This lvl 60 Elite bat patrols just above The Marris Stead. With the help of a few other players you could be able to do this. Same thing with "The Corpulent One", Borelgore /target (lvl 60 Elite, around [G58,32]).
+32) Go south to The Undercroft, go down in the crypt and then do "[QC6021 Zaeldarr the Outcast]": kill/loot Zaeldarr the Outcast ([G27,85]). (See Video)
+33) Behind the crypt, next to the wooden wagon, click on the Mound of Dirt to turn in "[QT6024 Hameya's Plea]" ([G28,86]).
+34) Next to you, do "[QC5781 Of Forgotten Memories]": click on the Loose Dirt Mound ([G28,87]) that is next to Tirion Fordring's Grave, then kill/loot Mercutio Filthgorger (he has 3 bodyguards). IMPORTANT TIP: These mobs spawn between the two dirt mounds (from the previous step). Mercutio Filthgorger spawns in first, then his bodyguards soon after. So act fast and immediately pull Mercutio Filthgorger away from his spawn point to avoid fighting his guards too, as this fight can be really tough to do solo without this tactic.
+35) Go NW to Tiron Fordring, ([G8,44]) and turn in "[QT5781 Of Forgotten Memories]", accept "[QA5845 Of Lost Honor]".
+36) Go to the south side of Light's Hope Chapel (grind on all mobs along the way), then turn in "[QT6021 Zaeldarr the Outcast]" ([G79,64]).
+37) Go north in Light's Hope Chapel and turn in "[QT5211 Defenders of Darrowshire]" ([G81,60]).
+38) Next to you at Duke Nicholas Zverenhoff, turn in any Scourgestones you have. If you haven't yet, save at least one Argent Dawn Valor Token for a later quest. You can consume the rest to increase rep with The Argent Dawn.
+39) You can get repaired/resupplied from Craftsman Wilhelm ([G81,60]) next to the Forge.
+40) You should be friendly now with The Argent Dawn, if so: Right in front of the Inn's Entrance, go to Rayne and with your 30 Savage Fronds (in the mailbox?) accept and turn in "[QT9136 Savage Fronds]" ([G81,59]).
+41) Also (if you are friendly with The Argent Dawn): Go in the Inn and in the back from the human with black hair ([G82,58]), accept and turn in "[QT9131 Binding the Dreadnaught]" (requires the 30 Dark Iron Scraps, that could be in your mailbox). Also in the Inn, with your 30 Crypt Fiend Parts, accept and turn in "[QT9124 Cryptstalker Armor Doesn't Make Itself...]" (from Huntsman Leopold).
+42) Go north a bit more in Light's Hope Chapel and turn in (if you did it) "[QT6041 When Smokey Sings, I Get Violent]" ([G81,58]). If you turned this in, you can then destroy Smokey's Special Compound.
+43) If you still need to: Next to you at the human on the horse and with your Argent Dawn Valor Token, accept and turn in "[QT9141 They Call Me "The Rooster]" ([G81,57]).
+44) Grind north to Northdale and do "[QC5845 Of Lost Honor]": loot the Symbol of Lost Honor (under the lake, [G71,34]).
+45) Grind all the way back west to Tiron Fordring, ([G8,44], #1 on map) and turn in "[QT5845 Of Lost Honor]", accept "[QA5846 Of Love and Family]".
+46) Go south at the island of Caer Darrow in Western Plaguelands (use a Swim Speed Potion) and turn in "[QT5846 Of Love and Family]" ([G66,75]). SKIP the next part (Dungeon).
+47) Hearth to UC. Make sure you are repaired/resupplied.
+48) At the Bank in the middle of the UC, put the following items into it: any remaining Crypt Fiend Parts, Savage Fronds, any Core of Elements and any Insignias.
+49) Drop down east to Guild Creation and turn in "[QT5023 Better Late Than Never]" ([G70,43]), accept "[QA5049 The Jeremiah Blues]".
+50) Underneath the bank from the Cockroach Vendor ([G68,44]), turn in "[QT5049 The Jeremiah Blues]", accept "[QA5050 Good Luck Charm]".
+51) Find Harbinger Balthazad /target, he patrols around the bank (wearing a white shirt with a lantern), once you find him, accept "[QA1004 The New Frontier]" and (if it's available) "[QA7492 Camp Mojache]".
+52) Also if you still need to turn in 60 extra Runecloth (for cloth donation), go to the Magic Quarter and turn in "[QT7818 A Donation of Runecloth]" ([G72,29]), for undead faction.
+53) Leave The Undercity and go east in Tirisfal Glades to The Bulwark ([G83,70] in Tirisfal Glades)..
+[NX 57-58 Western Plaguelands]
+]], "Thacen")
