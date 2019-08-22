@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N49-49 Feralas]
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
-01) Next to the big tent from Witch Doctor Uzer'i ([G74,43]), turn in "[QT3123 Testing the Vessel]", accept "[QA3124 Hippogryph Muisek]". Also accept "[QA3380 The Sunken Temple]".
+01) Next to the big tent from Witch Doctor Uzer'i ([G74,43Feralas]), turn in "[QT3123 Testing the Vessel]", accept "[QA3124 Hippogryph Muisek]". Also accept "[QA3380 The Sunken Temple]".
 02) Go in the big tent next to you and accept "[QA7734 Improved Quality]" ([G74,43]).
 03) In the hut across the river ([G76,44]), accept "[QA3062 Dark Heart]" (Elite), "[QA3063 Vengeance on the Northspring]" and "[QA4120 The Strength of Corruption]".
 04) Go in the Inn ([G75,45]) and make Camp Mojache your new home.

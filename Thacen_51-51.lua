@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N51-51 Blasted Lands]
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
-01) As you enter Blasted Lands go to the small quest hub (at [G51,14]). Accept all 5 quests there. These 5 quests requires the following total number of items to complete them. The items needed can drop without needing to accept the quests. The color codes below show where the mobs are at on the images and stars represent rare mobs that may not be there. Work on the rest of this section all at once):
+01) As you enter Blasted Lands go to the small quest hub (at [G51,14Blasted Lands]). Accept all 5 quests there. These 5 quests requires the following total number of items to complete them. The items needed can drop without needing to accept the quests. The color codes below show where the mobs are at on the images and stars represent rare mobs that may not be there. Work on the rest of this section all at once):
 Mob - Total Items Needed - After "[QT2585 The Decisive Striker]" - And then "[QT2603 Vulture's Vigor]"
 02) Vulture Gizzards   =14 - 12 - 2
 03) Basilisk Brain     =11 - 11 - 11

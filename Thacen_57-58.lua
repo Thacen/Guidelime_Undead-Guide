@@ -3,9 +3,9 @@ Guidelime.registerGuide(
 [N57-58 Western Plaguelands]
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
-01) Make a right at The Bulwark and turn in "[QT5236 Return to the Bulwark]" ([G83,72]).
+01) Make a right at The Bulwark and turn in "[QT5236 Return to the Bulwark]" ([G83,72Western Plaguelands]).
 02) Next to you behind the tent, turn in "[QT5901 A Plague Upon Thee]", accept the next [QA5902 part]. NOTE: If you have any remaining Plagueland Termites in your inventory, you can destroy them.
-03) At the other side of The Bulwark, complete "[QT//www.joanasworld.com/db/info-0102.php?npc=10837 Mission Accomplished!]" ([G83,69]). Also accept "[QA5098 All Along the Watchtowers]".
+03) At the other side of The Bulwark, complete "[QT10837 Mission Accomplished!]" ([G83,69]). Also accept "[QA5098 All Along the Watchtowers]".
 04) If you have turned Friendly with The Argent Dawn and if you are a class that uses mana, then stock up on Enriched Manna Biscuits next to you from Argent Quartermaster Hasana. These biscuits will help you level faster by receiving mana faster from consuming these biscuits.
 05) Go into Western Plaguelands to Felstone Field and up in the house, turn in "[QT5050 Good Luck Charm]" ([G38,54]), accept "[QA5051 Two Halves Become One]".
 06) Go south of Felstone Field and do "[QC5051 Two Halves Become One]": kill/loot the Jabbering Ghoul /target (only one mob spawn at [G37,58]). This mob drops Good Luck Other-Half-Charm. Right-click this item in your inventory.

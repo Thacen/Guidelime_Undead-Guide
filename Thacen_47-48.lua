@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N47-48 Searing Gorge]
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
-01) Go SE in Searing Gorge and from the Wooden Outhouse ([G66,63]), accept "[QA4449 Caught!]".
+01) Go SE in Searing Gorge and from the Wooden Outhouse ([G66,63Searing Gorge]), accept "[QA4449 Caught!]".
 02) At the Grimesilt Dig Site next to you (around [G63,61]), do "[QC4449 Caught!]": kill 8 Dark Iron Geologists. Also make sure you have 15 Silk Cloth (it can drop from the dwarves at the Dig Site). The Geologists are limited, so you will most likely need to grind on mobs until they respawn (or go north for a few more).
 03) Go back to the Wooden Outhouse ([G66,63], #1 on map), and turn in "[QT4449 Caught!]", accept "[QA4450 Ledger from Tanaris]". Then pick up the Goodsteel Ledger (it drops on the ground next to the outhouse).
 04) Do part of "[QC4450 Ledger from Tanaris]": kill/loot Glassweb Spiders for the Leg Shafts. These are scattered on the eastern side of Searing Gorge.

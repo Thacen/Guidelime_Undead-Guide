@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N44-45 Tanaris]
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
-01) As you enter Gadgetzan (next to the crane, [G52,27]) turn in "[QT2864 Tran'Rek]" ([G52,27]), SKIP "Scarab Shells" (Dungeon).
+01) As you enter Gadgetzan (next to the crane, [G52,27Tanaris]) turn in "[QT2864 Tran'Rek]" ([G52,27]), SKIP "Scarab Shells" (Dungeon).
 02) From the Wanted Poster next to the cage entrance ([G52,27]), accept "[QA2781 WANTED: Caliph Scorpidsting]" and "[QA2875 WANTED: Andre Firebeard]".
 03) Go in the Inn on the east side and make Gadgetzan your new home from the Innkeeper ([G52,28]).
 04) Next to the Inn at the windmill (just south, [G52,29]), accept "[QA1707 Water Pouch Bounty]" and "[QA1690 Wastewander Justice]".

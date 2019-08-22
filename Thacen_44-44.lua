@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N44-44 Desolace]
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
-01) At Shadowprey Village, on top of the mound next to the gong ([G26,68]), accept "[QA5581 Portals of the Legion]" (no exclamation mark). Make sure you are repaired/resupplied.
+01) At Shadowprey Village, on top of the mound next to the gong ([G26,68Desolace]), accept "[QA5581 Portals of the Legion]" (no exclamation mark). Make sure you are repaired/resupplied.
 02) Go SE to Uthek the Wise (under the tent [G36,79]) and turn in "[QT1373 Ongeku]", accept "[QA1374 Khan Jehn]".
 03) Go NE to the Kodo Graveyard and accept "[QA6134 Ghost-o-Plasm Round Up]" ([G48,62], no exclamation mark).
 04) Go east to Ghost Walker Post (entrance is [G55,58])...

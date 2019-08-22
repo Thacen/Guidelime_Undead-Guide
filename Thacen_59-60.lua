@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N59-60 Winterspring]
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
-01) After you have Hearthed to Orgrimmar, go to the Bank ([G49,69]) and put the following items into it: any remaining Core of Elements, Bone Fragments, Savage Fronds, Dark Iron Scraps and any Insignias.
+01) After you have Hearthed to Orgrimmar, go to the Bank ([G49,69Winterspring]) and put the following items into it: any remaining Core of Elements, Bone Fragments, Savage Fronds, Dark Iron Scraps and any Insignias.
 02) Go up to the Wind Rider Master ([G45,64]) and fly to Bloodvenom Post, Felwood.
 03) At Bloodvenom Post, accept "[QA4741 Wild Guardians]". Make sure you are repaired/resupplied.
 04) Go NE to Irontree Woods (around [G50,23] in Felwood) and do "[QC5086 Toxic Horrors]": kill/loot Toxic Horrors (green water elementals).

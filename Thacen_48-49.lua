@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
 01) Go in the Inn and make Stonard your new home from the Innkeeper.
-02) Go SW on the main path and from Fallen Hero of the Horde ([G34,66]) accept "[QA2784 Fall From Grace]". Then do it by simply talking to the NPC. Turn it in and accept "[QA2621 The Disgraced One]".
+02) Go SW on the main path and from Fallen Hero of the Horde ([G34,66Swamp of Sorrows]) accept "[QA2784 Fall From Grace]". Then do it by simply talking to the NPC. Turn it in and accept "[QA2621 The Disgraced One]".
 03) Go NW and click on A Soggy Scrolll under the bridge ([G23,48]) to turn in "[QT624 Cortello's Riddle]", accept the next [QA625 part].
 04) If "[QT1383 Nothing But the Truth]" is complete, go west on the main path (to Beggar's Haunt, [G88,35] in Duskwood) and turn this in. Wait a few seconds and accept the next [QA1388 part] (no exclamation mark). Then turn that in right next to you and accept the next [QA1391 part].
 05) Hearth to Stonard.

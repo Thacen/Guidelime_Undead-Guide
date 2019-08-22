@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N49-50 Tanaris]
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
-01) As you enter Gadgetzan (next to the crane, [G52,27]), accept "[QA3362 Thistleshrub Valley]".
+01) As you enter Gadgetzan (next to the crane, [G52,27Tanaris]), accept "[QA3362 Thistleshrub Valley]".
 02) Behind the Inn, next to the Bonfire, accept "[QA5863 The Dunemaul Compound]" ([G53,27]).
 03) Go in the Inn and make Gadgetzan your new home ([G52,28]).
 04) Go to the Bank (SE in Gadgetzan, [G52,29]) and get the following items out: Yeh'kinya's Bramble, Goodsteel Ledger, 20 Solid Crystal Leg Shafts, Goodsteel's Balanced Flameberge, Wastewander Water Pouches and Hippogryph Egg. Put in the bank: your stack of Long Elegant Feathers (if you still need to turn in the quest for them)

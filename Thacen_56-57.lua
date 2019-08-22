@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N56-57 Eastern Plaguelands]
 [GA Horde]
 [D A guide created by T H A C E N#9446\Based on Joana's Speed Leveling guide https://www.joanasworld.com]
-1) Go north along Thondoril River to Tiron Fordring ([G8,44]) and accept "[QA5542 Demon Dogs]", "[QA5543 Blood Tinged Skies]" and "[QA5544 Carrion Grubbage]".
+1) Go north along Thondoril River to Tiron Fordring ([G8,44Eastern Plaguelands]) and accept "[QA5542 Demon Dogs]", "[QA5543 Blood Tinged Skies]" and "[QA5544 Carrion Grubbage]".
 02) Grind SE to The Marris Stead ([G26,75]) and accept "[QA6022 To Kill With Purpose]", "[QA6042 Un-Life's Little Annoyances]" and "[QA6133 The Ranger Lord's Behest]".
 03) Go south to The Undercroft and down in the crypt, from the Torn Scroll laying on the ground, accept "[QA6024 Hameya's Plea]" ([G27,85]).
 04) Grind east to Darrowshire to Pamela Redpath and turn in "[QT5601 Sister Pamela]" ([G36,91]), accept "[QA5149 Pamela's Doll]".
